@@ -37,3 +37,19 @@ ul {
     font-family: Georgia;
     font-size: 10px;
   }
+  .imheader {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .lolo {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    
+  }
+  .xoxo {
+    position: absolute;
+    top: 50px;
+    left: 12px;
+  }
