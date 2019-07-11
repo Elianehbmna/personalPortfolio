@@ -53,3 +53,19 @@ ul {
     top: 50px;
     left: 12px;
   }
+  .kenno
+	{
+		position:absolute;
+		top: 10px;
+		left: 10px;
+		z-index: 1;
+	}
+	.kennos
+	{
+		position:absolute;
+		top: 25px;
+		left: 25px;
+    z-index: 2;
+    width: 200px;
+    height : auto;
+	}
