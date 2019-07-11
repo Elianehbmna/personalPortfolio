@@ -96,6 +96,12 @@ height:auto;
     margin-left: 0;
     font-family: Georgia, serif;
   }*/
+  h4{
+    text-align: center;
+    color:white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+  }
   p{
     text-align: center;
       background-color: #f5fbf1;
