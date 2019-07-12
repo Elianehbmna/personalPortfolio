@@ -114,3 +114,23 @@ height:auto;
       font-family: Arial;
     
     }
+    .image{
+      float:right;
+      width:300px;
+      height:300px;
+      margin-left:15px;
+    }
+    .clearfix {
+      overflow: auto;
+      border: 1px solid white;
+      padding: 5px;
+      padding-right: 250px;
+      letter-spacing: 0.5px;
+      line-height: 1.6;
+      
+}
+h1{
+  text-align: center;
+}
+    
+  
