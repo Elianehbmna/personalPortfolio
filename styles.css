@@ -249,16 +249,17 @@ h1{
   .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: #4CAF50;
+    background-color: black;
     border: none;
     color: #FFFFFF;
     text-align: center;
     font-size: 28px;
-    padding: 20px;
-    width: 200px;
+    padding: 10px 24px;
+    width: 250px;
     transition: all 0.5s;
     cursor: pointer;
-    margin:0;
+    margin:50px;
+    justify-content: center;
   }
   
   .button span {
@@ -266,6 +267,7 @@ h1{
     display: inline-block;
     position: relative;
     transition: 0.5s;
+    
   }
   
   .button span:after {
@@ -279,9 +281,11 @@ h1{
   
   .button:hover span {
     padding-right: 25px;
+    background-color: black;
   }
   
   .button:hover span:after {
     opacity: 1;
     right: 0;
   }
+  
